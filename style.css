@@ -19,3 +19,8 @@ body {
   margin: 20px auto;
   width: 60%;
 }
+
+.btn-generate{
+  display: block;
+  padding:10px 20px;
+}
