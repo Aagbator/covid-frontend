@@ -20,6 +20,10 @@ body {
   width: 60%;
 }
 
+.form-group{
+  margin-top:20px;
+}
+
 .btn-generate{
   display: block;
   padding:10px 20px;
